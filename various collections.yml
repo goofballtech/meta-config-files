@@ -47,24 +47,11 @@ collections:
 #               Universes Collections                #
 ######################################################
 
-  Pixar:
-    imdb_list: https://www.imdb.com/list/ls087911008/
-    summary: A collection of Pixar movies
-    sort_title: '+000'
-    content_rating: G
-    collection_order: release
-    collection_mode: default
   Marvel Cinematic Universe:
     imdb_list: https://www.imdb.com/list/ls066946827/
     summary: A collection of all MCU movies.
     sort_title: '+001'
     collection_order: release
-    collection_mode: default
-  Walt Disney Animation Studios:
-    imdb_list: https://www.imdb.com/search/title/?companies=co0074039&count=250
-    summary: A collection of Disney Animation movies.
-    sort_title: '+002'
-    collection_order: alpha
     collection_mode: default
   Wizarding World:
     tmdb_list: https://www.themoviedb.org/list/94773
