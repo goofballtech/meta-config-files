@@ -1,49 +1,6 @@
 collections:
 
 ######################################################
-#               Genre/Year Collections               #
-######################################################
-
-  1970s:
-    plex_search:
-      year: 1970-1979
-    summary: A collection of movies released in the 1970s
-    sort_title: '*004'
-    collection_mode: default
-  1980s:
-    plex_search:
-      year: 1980-1999
-    summary: A collection of movies released in the 1980s
-    sort_title: '*005'
-    collection_mode: default
-  1990s:
-    plex_search:
-      year: 1990-1999
-    summary: A collection of movies released in the 1990s
-    sort_title: '*006'
-    collection_mode: default
-  2000s:
-    plex_search:
-      year: 2000-2009
-    summary: A collection of movies released in the 2000s
-    sort_title: '*007'
-    collection_mode: default
-  2010s:
-    plex_search:
-      year: 2010-2019
-    summary: A collection of movies released in the 2010s
-    sort_title: '*008'
-    collection_mode: default
-  2020s:
-    plex_search:
-      year: 2020-2029
-    summary: A collection of movies released in the 2020s
-    sort_title: '*009'
-    collection_mode: default
-
-
-
-######################################################
 #               Universes Collections                #
 ######################################################
 
@@ -87,55 +44,82 @@ collections:
   Terminator:
     tmdb_collection: https://www.themoviedb.org/collection/528-the-terminator-collection#
     tmdb_summary: https://www.themoviedb.org/collection/528-the-terminator-collection#
-    collection_mode: hide
-  Pirates of the Caribbean:
-    tmdb_collection: 295
-    tmdb_summary: 295
-    collection_mode: hide
-  The Hunger Games:
-    tmdb_collection: 131635
-    tmdb_summary: 131635
-    collection_mode: hide
-  Back to the Future:
-    tmdb_collection: 264
-    tmdb_summary: 264
-    collection_mode: hide
+    tmdb_list_poster: https://www.themoviedb.org/collection/528-the-terminator-collection#
+    collection_mode: default
+  Ghostbusters:
+    tmdb_collection: https://www.themoviedb.org/collection/2980-ghostbusters-collection
+    tmdb_summary: https://www.themoviedb.org/collection/2980-ghostbusters-collection
+    tmdb_list_poster: https://www.themoviedb.org/collection/2980-ghostbusters-collection
+    collection_mode: default
+  The Matrix:
+    tmdb_collection: https://www.themoviedb.org/collection/2344-the-matrix-collection
+    tmdb_summary: https://www.themoviedb.org/collection/2344-the-matrix-collection
+    tmdb_list_poster: https://www.themoviedb.org/collection/2344-the-matrix-collection
+    collection_mode: default
+  X-Men:
+    tmdb_collection: https://www.themoviedb.org/collection/748-x-men-collection
+    tmdb_summary: https://www.themoviedb.org/collection/748-x-men-collection
+    tmdb_list_poster: https://www.themoviedb.org/collection/748-x-men-collection
+    collection_mode: default
   Deadpool:
     tmdb_collection: 448150
     tmdb_summary: 448150
-    collection_mode: hide
+    tmdb_list_poster: 448150
+    collection_mode: default
+  Pirates of the Caribbean:
+    tmdb_collection: 295
+    tmdb_summary: 295
+    tmdb_list_poster: 295
+    collection_mode: default
+  The Hunger Games:
+    tmdb_collection: 131635
+    tmdb_summary: 131635
+    tmdb_list_poster: 131635
+    collection_mode: default
+  Back to the Future:
+    tmdb_collection: 264
+    tmdb_summary: 264
+    tmdb_list_poster: 264
+    collection_mode: default
   Fantastic Beasts:
     tmdb_collection: 435259
     tmdb_summary: 435259
-    collection_mode: hide
+    tmdb_list_poster: 435259
+    collection_mode: default
   The Godfather:
     tmdb_collection: 230
     tmdb_summary: 230
-    collection_mode: hide
+    tmdb_list_poster: 230
+    collection_mode: default
   Harry Potter:
     tmdb_collection: 1241
     tmdb_summary: 1241
-    collection_mode: hide
+    tmdb_list_poster: 1241
+    collection_mode: default
   John Wick:
     tmdb_collection: 404609
     tmdb_summary: 404609
-    collection_mode: hide
+    tmdb_list_poster: 404609
+    collection_mode: default
   Mission Impossible:
     tmdb_collection: 87359
     tmdb_summary: 87359
-    collection_mode: hide
+    tmdb_list_poster: 87359
+    collection_mode: default
   The Karate Kid:
     tmdb_collection: 8580
     tmdb_summary: 8580
-    collection_mode: hide
+    tmdb_list_poster: 8580
+    collection_mode: default
   MonsterVerse:
     imdb_list: https://www.imdb.com/list/ls060980695/
     summary: A collection of all the MonsterVerse movies.
-    collection_mode: hide
+    collection_mode: default
   The Dark Knight Collection:
     tmdb_collection: 263
     tmdb_summary: 263
-    collection_mode: hide
+    tmdb_list_poster: 263
+    collection_mode: default
 
 
 ######################################################
@@ -172,3 +156,26 @@ metadata:
     sort_title: Star Wars 9
   "Star Wars: The Rise of Skywalker":
     sort_title: Star Wars 10
+
+######################################################
+#                 Individual Metadata                #
+######################################################
+
+  The Witcher:
+    episodes:
+      S01E01:
+        file_poster: /media/gdrive/RemoteServer/mediaAssets/tv/The Witcher/S01/S01E01.png
+      S01E02:
+        file_poster: /media/gdrive/RemoteServer/mediaAssets/tv/The Witcher/S01/S01E02.png
+      S01E03:
+        file_poster: /media/gdrive/RemoteServer/mediaAssets/tv/The Witcher/S01/S01E03.png
+      S01E04:
+        file_poster: /media/gdrive/RemoteServer/mediaAssets/tv/The Witcher/S01/S01E04.png
+      S01E05:
+        file_poster: /media/gdrive/RemoteServer/mediaAssets/tv/The Witcher/S01/S01E05.png
+      S01E06:
+        file_poster: /media/gdrive/RemoteServer/mediaAssets/tv/The Witcher/S01/S01E06.png
+      S01E07:
+        file_poster: /media/gdrive/RemoteServer/mediaAssets/tv/The Witcher/S01/S01E07.png
+      S01E08:
+        file_poster: /media/gdrive/RemoteServer/mediaAssets/tv/The Witcher/S01/S01E08.png
