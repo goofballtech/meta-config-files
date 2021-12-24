@@ -137,10 +137,6 @@ collections:
     tmdb_collection: 87359
     tmdb_summary: 87359
     collection_mode: hide
-  Pirates of the Caribbean:
-    tmdb_collection: 295
-    tmdb_summary: 295
-    collection_mode: hide
   The Karate Kid:
     tmdb_collection: 8580
     tmdb_summary: 8580
