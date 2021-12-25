@@ -44,72 +44,58 @@ collections:
   Terminator:
     tmdb_collection: https://www.themoviedb.org/collection/528-the-terminator-collection#
     tmdb_summary: https://www.themoviedb.org/collection/528-the-terminator-collection#
-    tmdb_list_poster: https://www.themoviedb.org/collection/528-the-terminator-collection#
     collection_mode: default
   Ghostbusters:
     tmdb_collection: https://www.themoviedb.org/collection/2980-ghostbusters-collection
     tmdb_summary: https://www.themoviedb.org/collection/2980-ghostbusters-collection
-    tmdb_list_poster: https://www.themoviedb.org/collection/2980-ghostbusters-collection
     collection_mode: default
   The Matrix:
     tmdb_collection: https://www.themoviedb.org/collection/2344-the-matrix-collection
     tmdb_summary: https://www.themoviedb.org/collection/2344-the-matrix-collection
-    tmdb_list_poster: https://www.themoviedb.org/collection/2344-the-matrix-collection
     collection_mode: default
   X-Men:
     tmdb_collection: https://www.themoviedb.org/collection/748-x-men-collection
     tmdb_summary: https://www.themoviedb.org/collection/748-x-men-collection
-    tmdb_list_poster: https://www.themoviedb.org/collection/748-x-men-collection
     collection_mode: default
   Deadpool:
     tmdb_collection: 448150
     tmdb_summary: 448150
-    tmdb_list_poster: 448150
     collection_mode: default
   Pirates of the Caribbean:
     tmdb_collection: 295
     tmdb_summary: 295
-    tmdb_list_poster: 295
     collection_mode: default
   The Hunger Games:
     tmdb_collection: 131635
     tmdb_summary: 131635
-    tmdb_list_poster: 131635
     collection_mode: default
   Back to the Future:
     tmdb_collection: 264
     tmdb_summary: 264
-    tmdb_list_poster: 264
     collection_mode: default
   Fantastic Beasts:
     tmdb_collection: 435259
     tmdb_summary: 435259
-    tmdb_list_poster: 435259
     collection_mode: default
   The Godfather:
     tmdb_collection: 230
     tmdb_summary: 230
-    tmdb_list_poster: 230
     collection_mode: default
   Harry Potter:
     tmdb_collection: 1241
     tmdb_summary: 1241
-    tmdb_list_poster: 1241
     collection_mode: default
   John Wick:
     tmdb_collection: 404609
     tmdb_summary: 404609
-    tmdb_list_poster: 404609
     collection_mode: default
   Mission Impossible:
     tmdb_collection: 87359
     tmdb_summary: 87359
-    tmdb_list_poster: 87359
     collection_mode: default
   The Karate Kid:
     tmdb_collection: 8580
     tmdb_summary: 8580
-    tmdb_list_poster: 8580
     collection_mode: default
   MonsterVerse:
     imdb_list: https://www.imdb.com/list/ls060980695/
@@ -118,7 +104,6 @@ collections:
   The Dark Knight Collection:
     tmdb_collection: 263
     tmdb_summary: 263
-    tmdb_list_poster: 263
     collection_mode: default
 
 
