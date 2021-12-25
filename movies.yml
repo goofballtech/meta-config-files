@@ -156,26 +156,3 @@ metadata:
     sort_title: Star Wars 9
   "Star Wars: The Rise of Skywalker":
     sort_title: Star Wars 10
-
-######################################################
-#                 Individual Metadata                #
-######################################################
-
-  The Witcher:
-    episodes:
-      S01E01:
-        file_poster: /media/gdrive/RemoteServer/mediaAssets/tv/The Witcher/S01/S01E01.png
-      S01E02:
-        file_poster: /media/gdrive/RemoteServer/mediaAssets/tv/The Witcher/S01/S01E02.png
-      S01E03:
-        file_poster: /media/gdrive/RemoteServer/mediaAssets/tv/The Witcher/S01/S01E03.png
-      S01E04:
-        file_poster: /media/gdrive/RemoteServer/mediaAssets/tv/The Witcher/S01/S01E04.png
-      S01E05:
-        file_poster: /media/gdrive/RemoteServer/mediaAssets/tv/The Witcher/S01/S01E05.png
-      S01E06:
-        file_poster: /media/gdrive/RemoteServer/mediaAssets/tv/The Witcher/S01/S01E06.png
-      S01E07:
-        file_poster: /media/gdrive/RemoteServer/mediaAssets/tv/The Witcher/S01/S01E07.png
-      S01E08:
-        file_poster: /media/gdrive/RemoteServer/mediaAssets/tv/The Witcher/S01/S01E08.png
