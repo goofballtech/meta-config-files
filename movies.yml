@@ -5,8 +5,8 @@ collections:
 ######################################################
 
   Marvel Cinematic Universe:
-    imdb_list: https://www.imdb.com/list/ls066946827/
-    summary: A collection of all MCU movies.
+    tmdb_list: https://www.themoviedb.org/list/9387
+    tmdb_summary: https://www.themoviedb.org/list/9387
     sort_title: '+001'
     file_poster: /assets/Collections/Marvel/poster.jpg
     collection_order: release
@@ -14,15 +14,15 @@ collections:
   Wizarding World:
     tmdb_list: https://www.themoviedb.org/list/94773
     summary: A collection of all the Wizarding World movies.
-    sort_title: '+003'
+    sort_title: '+002'
     file_poster: /assets/Collections/Wizarding World/poster.jpg
     collection_order: release
     collection_mode: default
   Star Wars Universe:
     tmdb_collection: https://www.themoviedb.org/collection/10-star-wars-collection
     tmdb_summary: https://www.themoviedb.org/collection/10-star-wars-collection
-    sort_title: '+004'
-    file_poster: /assets/Collections/Star Wars/poster.jpg
+    sort_title: '+003'
+    file_poster: /assets/Collections/Star Wars/poster.jpeg
     collection_order: release
     collection_mode: default
   Middle Earth:
@@ -30,8 +30,8 @@ collections:
       - 119
       - 121938
     summary: A collection of all J.R.R. Tolkien's movies.
-    sort_title: '+006'
-    file_poster: /assets/Collections/Middle Earth/poster.jpg
+    sort_title: '+004'
+    file_poster: /assets/Collections/Middle Earth/poster.jpeg
     collection_order: release
     collection_mode: default
 
@@ -67,37 +67,32 @@ collections:
   Pirates Movies:
     tmdb_collection: 295
     tmdb_summary: 295
-    file_poster: /assets/Collections/Pirates/poster.jpg
+    file_poster: /assets/Collections/Pirates/poster.png
     collection_mode: default
   The Hunger Games Set:
     tmdb_collection: 131635
     tmdb_summary: 131635
-    file_poster: /assets/Collections/The Hunger Games/poster.jpg
+    file_poster: /assets/Collections/The Hunger Games/poster.jpeg
     collection_mode: default
   Back to the Future Films:
     tmdb_collection: 264
     tmdb_summary: 264
-    file_poster: /assets/Collections/Back To The Future/poster.jpg
+    file_poster: /assets/Collections/Back To The Future/poster.jpeg
     collection_mode: default
   The Godfather Movies:
     tmdb_collection: 230
     tmdb_summary: 230
-    file_poster: /assets/Collections/The Godfather/poster.jpg
+    file_poster: /assets/Collections/The Godfather/poster.png
     collection_mode: default
   John Wick Action:
     tmdb_collection: 404609
     tmdb_summary: 404609
-    file_poster: /assets/Collections/John Wick/poster.jpg
-    collection_mode: default
-  Mission Impossible Ridiculousness:
-    tmdb_collection: 87359
-    tmdb_summary: 87359
-    file_poster: /assets/Collections/Mission Impossible/poster.jpg
+    file_poster: /assets/Collections/John Wick/poster.jpeg
     collection_mode: default
   The Karate Kid:
     tmdb_collection: 8580
     tmdb_summary: 8580
-    file_poster: /assets/Collections/The Karate Kid/poster.jpg
+    file_poster: /assets/Collections/The Karate Kid/poster.png
     collection_mode: default
   MonsterVerse:
     imdb_list: https://www.imdb.com/list/ls060980695/
@@ -107,7 +102,7 @@ collections:
   The Dark Knight Collection:
     tmdb_collection: 263
     tmdb_summary: 263
-    file_poster: /assets/Collections/Dark Knight/poster.jpg
+    file_poster: /assets/Collections/Dark Knight/poster.png
     collection_mode: default
 
 metadata:
