@@ -106,38 +106,5 @@ collections:
     tmdb_summary: 263
     collection_mode: default
 
-
-######################################################
-#                 Star Wars Variants                 #
-######################################################
-
-  "Star Wars: by year" :
-    template: {name: Collection, collection: 10}
-    collection_order: release
-  "Star Wars: by timeline":
-    template: {name: Collection, movie: "1893, 1894, 12180, 1895, 11, 1891, 1892, 140607, 181808, 181812"}
-    summary: This is a collection of main star wars movies, plus The Clone Wars animated movie, arranged by when events took place   
-    collection_order: alpha
-    
 metadata:
   
-  "Star Wars: Episode I - The Phantom Menace":
-    sort_title: Star Wars 1
-  "Star Wars: Episode II - Attack of the Clones":
-    sort_title: Star wars 2
-  "Star Wars: The Clone Wars":
-    sort_title: Star Wars 3
-  "Star Wars: Episode III - Revenge of the Sith":
-    sort_title: Star Wars 4
-  Star Wars:
-    sort_title: Star Wars 5
-  The Empire Strikes Back:
-    sort_title: Star Wars 6    
-  Return of the Jedi:
-    sort_title: Star Wars 7    
-  "Star Wars: The Force Awakens":    
-    sort_title: Star Wars 8
-  "Star Wars: The Last Jedi":    
-    sort_title: Star Wars 9
-  "Star Wars: The Rise of Skywalker":
-    sort_title: Star Wars 10
