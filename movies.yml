@@ -8,7 +8,7 @@ collections:
     tmdb_list: https://www.themoviedb.org/list/9387
     tmdb_summary: https://www.themoviedb.org/list/9387
     sort_title: '+001'
-    file_poster: /assets/Collections/Marvel/poster.jpg
+    file_poster: /assets/Collections/Marvel Cinematic Universe/poster.jpg
     collection_order: release
     collection_mode: default
   Wizarding World:
@@ -22,7 +22,7 @@ collections:
     tmdb_collection: https://www.themoviedb.org/collection/10-star-wars-collection
     tmdb_summary: https://www.themoviedb.org/collection/10-star-wars-collection
     sort_title: '+003'
-    file_poster: /assets/Collections/Star Wars/poster.jpeg
+    file_poster: /assets/Collections/Star Wars Collection/poster.jpeg
     collection_order: release
     collection_mode: default
   Middle Earth:
@@ -41,68 +41,55 @@ collections:
 
   Terminator Series:
     tmdb_collection: https://www.themoviedb.org/collection/528-the-terminator-collection#
-    tmdb_summary: https://www.themoviedb.org/collection/528-the-terminator-collection#
-    file_poster: /assets/Collections/Terminator/poster.jpg
+    tmdb_summary: https://www.themoviedb.org/collection/528-the-terminator-collection
     collection_mode: default
   Ghostbusters Set:
     tmdb_collection: https://www.themoviedb.org/collection/2980-ghostbusters-collection
     tmdb_summary: https://www.themoviedb.org/collection/2980-ghostbusters-collection
-    file_poster: /assets/Collections/Ghostbusters/poster.jpg
     collection_mode: default
   The Matrix Trilogy+1:
     tmdb_collection: https://www.themoviedb.org/collection/2344-the-matrix-collection
     tmdb_summary: https://www.themoviedb.org/collection/2344-the-matrix-collection
-    file_poster: /assets/Collections/The Matrix/poster.jpg
     collection_mode: default
   X-Men Flicks:
     tmdb_collection: https://www.themoviedb.org/collection/748-x-men-collection
     tmdb_summary: https://www.themoviedb.org/collection/748-x-men-collection
-    file_poster: /assets/Collections/X-Men/poster.jpg
     collection_mode: default
   Deadpool Duet:
     tmdb_collection: 448150
     tmdb_summary: 448150
-    file_poster: /assets/Collections/Deadpool/poster.jpg
     collection_mode: default
   Pirates Movies:
     tmdb_collection: 295
     tmdb_summary: 295
-    file_poster: /assets/Collections/Pirates/poster.png
     collection_mode: default
   The Hunger Games Set:
     tmdb_collection: 131635
     tmdb_summary: 131635
-    file_poster: /assets/Collections/The Hunger Games/poster.jpeg
     collection_mode: default
   Back to the Future Films:
     tmdb_collection: 264
     tmdb_summary: 264
-    file_poster: /assets/Collections/Back To The Future/poster.jpeg
     collection_mode: default
   The Godfather Movies:
     tmdb_collection: 230
     tmdb_summary: 230
-    file_poster: /assets/Collections/The Godfather/poster.png
     collection_mode: default
   John Wick Action:
     tmdb_collection: 404609
     tmdb_summary: 404609
-    file_poster: /assets/Collections/John Wick/poster.jpeg
     collection_mode: default
   The Karate Kid:
     tmdb_collection: 8580
     tmdb_summary: 8580
-    file_poster: /assets/Collections/The Karate Kid/poster.png
     collection_mode: default
   MonsterVerse:
     imdb_list: https://www.imdb.com/list/ls060980695/
     summary: A collection of all the MonsterVerse movies.
-    file_poster: /assets/Collections/MonsterVerse/poster.jpg
     collection_mode: default
   The Dark Knight Collection:
     tmdb_collection: 263
     tmdb_summary: 263
-    file_poster: /assets/Collections/Dark Knight/poster.png
     collection_mode: default
 
 metadata:
